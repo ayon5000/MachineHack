@@ -1,2 +1,2 @@
 # MachineHack
-Codes for MachineHack Competitions
+Codes for MachineHack Competitions (Analytics India Magazine)
